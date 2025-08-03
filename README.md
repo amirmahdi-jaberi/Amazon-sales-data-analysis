@@ -15,4 +15,4 @@ This project analyzes Amazon sales data to understand:
 
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
 - **Jupyter Notebook** for interactive analysis  
-- *(Optional)* Power BI or Tableau for dashboards
+- **Power BI** for dashboards
